@@ -1,6 +1,6 @@
 @echo off
 
-set DEPLOY_DIR=D:\Development\SampleWebsite
+set DEPLOY_DIR=D:\Development\automated deployment
 
 git pull origin main
 
